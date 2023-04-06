@@ -1,0 +1,10 @@
+install react-redux dan @reduxjs/toolkit
+
+1. buat folder redux
+2. buat file slice
+3. buat file store sbg index.js dr semua slice
+4. setup store di index.js
+
+
+useDispatch() utk menjalankan function di reducer
+useSelector() utk menggunakan/memilih state yg ingin digunakan
